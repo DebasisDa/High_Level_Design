@@ -1,0 +1,3 @@
+Strong knowledge in Microservices 
+(Decompose, Strangler, Saga, Event sourcing, CQRS, Tx Messaging). 
+Knowledge of a microservices architecture.
